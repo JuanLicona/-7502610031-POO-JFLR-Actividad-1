@@ -14,4 +14,4 @@ modules.xml
 vcs.xml
 workspace.xml
 .idea
-\out
+out/
